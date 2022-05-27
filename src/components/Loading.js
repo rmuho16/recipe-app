@@ -1,8 +1,8 @@
 const Loading = () => {
     return (
-        <div className="d-block align-items-center my-3 mx-auto">
+         <div className="d-flex justify-content-center">
             <div className="spinner-border" role="status">
-                {/*<span className="sr-only"></span>*/}
+                {/*<span className="sr-only">Loading...</span>*/}
             </div>
         </div>
     )
