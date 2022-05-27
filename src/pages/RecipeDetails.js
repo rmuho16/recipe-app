@@ -26,7 +26,7 @@ const RecipeDetails = () => {
                     <div className="btn-group text-warning ">
                         <h5><span>
                         <AiFillStar/>
-                        <small className="m-2 text-warning">{recipeDetails.healthScore}/100</small>
+                        <small className="m-2 text-warning">{recipeDetails.weightWatcherSmartPoints}/100</small>
                     </span></h5>
                     </div>
                 </div>
