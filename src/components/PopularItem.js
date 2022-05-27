@@ -25,7 +25,7 @@ const PopularItem = ({recipe}) => {
                                 <div className="btn-group text-warning">
                                     <h5><span>
                                     <AiFillStar/>
-                                    <small className="m-2 text-warning">{recipe.spoonacularScore}/100</small>
+                                    <small className="m-2 text-warning">{recipe.weightWatcherSmartPoints}/100</small>
                                 </span></h5>
                                 </div>
                                 <div className="btn-group ">
