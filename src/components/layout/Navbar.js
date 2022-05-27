@@ -40,7 +40,7 @@ function Navbar({title}) {
 
 Navbar.defaultProps =
     {
-        title: 'Delicious',
+        title: 'The CookBook',
     }
 
 Navbar.propTypes =
