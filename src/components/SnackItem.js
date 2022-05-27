@@ -25,7 +25,7 @@ const SnackItem = ({snack}) => {
                                 <div className="btn-group text-warning">
                                     <h5><span>
                                     <AiFillStar/>
-                                    <small className="m-2 text-warning">{snack.spoonacularScore}/100</small>
+                                    <small className="m-2 text-warning">{snack.weightWatcherSmartPoints}/100</small>
                                 </span></h5>
                                 </div>
                                 <div className="btn-group ">
